@@ -215,7 +215,7 @@
   "latitude": "Breedtegraad",
   "layer": "{n, plural, =1 {Layer} other {Layers}}",
   "license": "Licentie",
-  "like-status": "",
+  "like-status": "Like status",
   "liked": "Leuk gevonden",
   "likes": "Vind-ik-leuks",
   "limited": "Gelimiteerd",
